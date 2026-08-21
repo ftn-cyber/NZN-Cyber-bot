@@ -25,7 +25,6 @@
             overflow-x: hidden;
         }
 
-        /* Efek Latar Belakang */
         .bg-glow {
             position: absolute;
             width: 400px;
@@ -58,7 +57,6 @@
             z-index: 1;
         }
 
-        /* Logo & Judul */
         .logo {
             width: 120px;
             height: 120px;
@@ -95,7 +93,6 @@
             line-height: 1.7;
         }
 
-        /* Tombol Invite */
         .tombol-invite {
             display: inline-flex;
             align-items: center;
@@ -127,7 +124,6 @@
             fill: white;
         }
 
-        /* Info Bot */
         .info-bot {
             margin-top: 35px;
             padding-top: 25px;
@@ -153,7 +149,6 @@
             word-break: break-all;
         }
 
-        /* Footer */
         footer {
             margin-top: 30px;
             color: #555f6e;
@@ -178,7 +173,6 @@
     <div class="bg-glow bottom"></div>
 
     <div class="container">
-        <!-- Logo Bot -->
         <div class="logo">N</div>
 
         <h1>NZN CYBER</h1>
@@ -189,8 +183,7 @@
             Buat Event CTF, Kelola Komunitas, & Fitur Keamanan Lengkap.
         </p>
 
-        <!-- TOMBOL INVITE UTAMA -->
-        <a href="https://discord.com/oauth2/authorize?client_id=1540304382862565388&permissions=8&scope=bot%20applications.commands" 
+        <a href="https://discord.com/oauth2/authorize?client_id=1540322021005590629&permissions=8&scope=bot%20applications.commands" 
            target="_blank" 
            class="tombol-invite">
             <svg viewBox="0 0 24 24">
@@ -201,7 +194,6 @@
 
         <div class="status">● ONLINE & SIAP PAKAI</div>
 
-        <!-- Info Detail Bot -->
         <div class="info-bot">
             <div class="info-item">
                 <span class="label">Nama Bot</span>
@@ -209,7 +201,7 @@
             </div>
             <div class="info-item">
                 <span class="label">ID Bot</span>
-                <span class="nilai">1540304382862565388</span>
+                <span class="nilai">1540322021005590629</span>
             </div>
             <div class="info-item">
                 <span class="label">Fitur Utama</span>
